@@ -1,3 +1,0 @@
-# PythonDjCRMProje
-
-Yeni proje başlattık
